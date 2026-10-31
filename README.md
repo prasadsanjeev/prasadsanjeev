@@ -1,3 +1,4 @@
 #Hello All, 
 
-#This is Sanjeev Prasad and I will try to keep upto my project in github and will keep adding new code :) 
+Most of my work is in private repo as they are friends and family and its all around websites, AI agents mostly on Azure Cloud 
+
